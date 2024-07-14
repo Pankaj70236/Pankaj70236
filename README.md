@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and cloud computing 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on 
-- 📫 contact me on pj6008465@gmail.com
+- 📫 contact me on ManuNikatansharma@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: web development 
 
